@@ -11,4 +11,4 @@ spring:
           uri: https://github.com/Elkinssm/configuration-games-libs.git
           default-label: main
           force-pull: true
-          search-paths: configuration
+#          search-paths: configuration
